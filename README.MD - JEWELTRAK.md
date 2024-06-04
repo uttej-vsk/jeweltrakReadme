@@ -61,7 +61,12 @@ Applying migration 20230116105327_tables.sql...
     - Save
     - Repeat the same for other record but this time, the role is “User”.
 
+![Screenshot 2024-06-04 at 16 58 00](https://github.com/uttej-vsk/jeweltrakReadme/assets/83727090/63f65cbf-5b64-40de-80f4-8984f1dcef61)
+
 
 * One last step in configuration, Select “user_roles” from the search and make sure you select the user who we have created earlier as an admin, from the “Select record” and then map it to the role “admin”.
+
+<img width="672" alt="Screenshot 2024-06-04 at 17 02 28" src="https://github.com/uttej-vsk/jeweltrakReadme/assets/83727090/37450027-61f1-4578-9a36-9a5936c38cdd">
+
 
 * You are done with configuration and can now, see your dashboard is visible for you with your organization.
